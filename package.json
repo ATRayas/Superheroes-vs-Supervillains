@@ -1,0 +1,23 @@
+{
+  "name": "superheroes-vs-supervillains",
+  "version": "1.0.0",
+  "description": "Simple website to show basic Node.js understanding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATRayas/Superheroes-vs-Supervillains.git"
+  },
+  "author": "Alejandro Rayas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATRayas/Superheroes-vs-Supervillains/issues"
+  },
+  "homepage": "https://github.com/ATRayas/Superheroes-vs-Supervillains#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}

@@ -1,0 +1,89 @@
+body{
+/*   margin-bottom: 60px; */
+}
+body { 
+    background-image: url('https://static.comicvine.com/uploads/original/11122/111221607/6170391-4843273317-Heroe.jpg');
+/*     background-repeat: repeat;  */
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100% 100%;
+}
+h1{
+/*   color:white; */
+  font-family:League-Gothic;
+  font-size: 300%;
+}
+p{
+/*   color:white; */
+  font-family:League-Gothic;
+  font-style:italic;
+  font-size: 125%;
+}
+img{
+  padding: 35%;
+}
+spam{
+  
+}
+.fighters{ 
+  font-weight: normal; 
+  font-style: normal; 
+  font-size: 170%
+}
+.fights{
+  font-family: '8BITWONDERNominal';
+}
+.blockP1{
+  background-color:#05FBAF;
+  border-color: black;
+  border-style: solid;
+  color: black;
+  opacity:.95;
+  padding:1%;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius: 3%;
+}
+.blockP2{
+  background-color:#FF53CD;
+  opacity:.99;
+  width:auto;
+  padding:2%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius: 10%;
+  font-size: 110%;
+  height:auto;
+  border-color: black;
+  border-style: solid;
+  color: yellow;
+}
+.paddingTop{
+  padding-top:2%;
+  padding-bottom:2%;
+}
+.paddingTopContact{
+  padding-top:10%;
+}
+.paddingBottom{
+/*   padding-top:2%; */
+  padding-bottom:2%;
+}
+.btn-default{
+  padding-top:2%;
+  padding-bottom:2%;
+  margin-bottom:25px;
+  font-family:League-Gothic;
+  font-size: 150%;
+  background-color: #FCFCFC;
+  border-color: black;
+  border-style: solid;
+  opacity:.95;
+  padding:20px; 
+  width:auto;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius: 7%;
+
+}
