@@ -2,7 +2,7 @@ body{
 /*   margin-bottom: 60px; */
 }
 body { 
-    background-image: url('https://static.comicvine.com/uploads/original/11122/111221607/6170391-4843273317-Heroe.jpg');
+    background-image: url('https://www.desktopbackground.org/download/1920x1080/2013/01/11/513108_superheroes-vs-villains-antiheroes-marvel-dc-comics_1920x1080_h.jpg');
 /*     background-repeat: repeat;  */
     background-attachment: fixed;
     background-position: center; 
@@ -11,7 +11,7 @@ body {
 h1{
 /*   color:white; */
   font-family:League-Gothic;
-  font-size: 400%;
+  font-size: 350%;
 }
 p{
 /*   color:white; */
