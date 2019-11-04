@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ATRayas/Superheroes-vs-Supervillains#readme",
   "dependencies": {
     "superheroes": "^3.0.0",
-    "supervillains": "^3.0.0"
+    "supervillains": "^3.0.0",
+    "uniq": "^1.0.1"
   }
 }
