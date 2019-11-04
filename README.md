@@ -1,5 +1,5 @@
 # Superheroes-vs-Supervillains
-A website that uses Node.js to generate random battles between heroes and villains.
+A website that uses Node.js to generate random battles between heroes and villains. Used browserify in order to use Node.js to serve browser-specific modules. 
 
 Tech: HTML, CSS, jQuery, Node.js Year: 2019
 
